@@ -16,4 +16,4 @@ writer-gender-comp-calculate.ipynb -- use Gender API to predict gender of each u
 
 # Analysis
 
-IMDb-Comedies+Gender-Analysis.ipynb -- Preliminary data visualization and analysis of final data set
+IMDb-Comedies+Gender-Analysis.ipynb -- Preliminary analysis and visualization of final data set
