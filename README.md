@@ -1,5 +1,6 @@
 # IMDb Comedies
 
+Code used to write http://thedataface.com/2018/06/culture/comedy-writing-staffs
 Data comes from https://www.imdb.com/interfaces/ and from web scraping individual IMDb episode ratings pages
 
 # Data sets
